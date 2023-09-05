@@ -1,0 +1,82 @@
+1693903124004	geckodriver	INFO	Listening on 127.0.0.1:49893
+1693903127297	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49894" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIA\\AppData\\Local\\Temp\\rust_mozprofileWIfOgs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693903127858	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693903127932	Marionette	INFO	Listening on port 49903
+WebDriver BiDi listening on ws://127.0.0.1:49894
+Read port: 49903
+1693903128113	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49894/devtools/browser/e114cf2b-804a-4884-9ffe-9b73a211ed93
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1693903130649	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 10588, MediaDecoderStateMachine #1] WARNING: Decoder=1f5317d5000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 10588, MediaDecoderStateMachine #1] WARNING: Decoder=1f5317d5000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:164
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F%253FthemeRefresh%253D1&ec=65620&hl=en&ifkv=AXo7B7UJlW5GLU3b6b8rlR_sS2WAcx2oZ96JmoFv8fIx3VVJxPGzMjjh170u_dzaGS1PBf6dUuwv&passive=true&service=youtube&uilel=3&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1827730132%3A1693903145173712&theme=glif line 206 > injectedScript line 2 > eval line 3280 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F%253FthemeRefresh%253D1&flowEntry=ServiceLogin&flowName=GlifWebSignIn&hl=en&ifkv=AXo7B7XlIyNvmBm9ksJakayXl86-G3szOUPEK3Q_x6fmAKiR-RiTyQJRJZBTjQZyIAvhBJ6Be0DdJQ&service=youtube&theme=glif&dsh=S-1643279997%3A1693903187872483 line 206 > injectedScript line 2 > eval line 7160 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1693903262504	Marionette	INFO	Stopped listening on port 49903
+Dynamically enable window occlusion 1
+1693903885603	geckodriver	INFO	Listening on 127.0.0.1:50166
+1693903888890	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50167" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIA\\AppData\\Local\\Temp\\rust_mozprofileBM8Jz9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693903889106	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693903889166	Marionette	INFO	Listening on port 50176
+WebDriver BiDi listening on ws://127.0.0.1:50167
+Read port: 50176
+1693903889300	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50167/devtools/browser/7d2c3e58-2ebd-46f3-aa2c-61b83be826d7
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1693903891743	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 13388, MediaDecoderStateMachine #1] WARNING: Decoder=1ba46ac5700 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 13388, MediaDecoderStateMachine #1] WARNING: Decoder=1ba46ac5700 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:164
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F%253FthemeRefresh%253D1&ec=65620&hl=en&ifkv=AXo7B7Wbiwm8oxapeJ4f6pFTcjeJo5PEbyTCtomCJ-xIHuUdliBMSDroGNNqt2595JZX9WhaauDcTQ&passive=true&service=youtube&uilel=3&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1677951057%3A1693903905510392&theme=glif line 206 > injectedScript line 2 > eval line 6916 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1693904031169	Marionette	INFO	Stopped listening on port 50176
+Dynamically enable window occlusion 1
+1693904040324	geckodriver	INFO	Listening on 127.0.0.1:50273
+1693904043613	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50274" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIA\\AppData\\Local\\Temp\\rust_mozprofileyrCw1r"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693904043809	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693904043873	Marionette	INFO	Listening on port 50282
+WebDriver BiDi listening on ws://127.0.0.1:50274
+Read port: 50282
+1693904044010	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50274/devtools/browser/e7447cce-1290-4d6a-9ca7-6a6ec8a44f1d
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1693904046359	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F%253FthemeRefresh%253D1&ec=65620&hl=en&ifkv=AXo7B7WFTsIqxGFl1UmzScqXW0zimnzBNdhut0UavcGeRupZBqLutV2Wu2-8yti2Y9lmJ6yMT-1Bjw&passive=true&service=youtube&uilel=3&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-402112697%3A1693904081927474&theme=glif line 206 > injectedScript line 2 > eval line 2626 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1693904168074	Marionette	INFO	Stopped listening on port 50282
+Dynamically enable window occlusion 1
+1693904190236	geckodriver	INFO	Listening on 127.0.0.1:50361
+1693904193534	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50362" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\INDIA\\AppData\\Local\\Temp\\rust_mozprofile1jDda5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693904193717	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693904193776	Marionette	INFO	Listening on port 50370
+WebDriver BiDi listening on ws://127.0.0.1:50362
+Read port: 50370
+1693904193903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50362/devtools/browser/d084aba9-1615-49d5-84f2-a1906a8a5c63
+1693904196070	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F%253FthemeRefresh%253D1&ec=65620&hl=en&ifkv=AXo7B7UNXA9knxa9VDeVwsFhRIRSRl3bVBWRxinRie06CfZ_huEgGAPTQTswMb_W5YTCL3jzQcvg&passive=true&service=youtube&uilel=3&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-334592361%3A1693904210196438&theme=glif line 206 > injectedScript line 2 > eval line 7194 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1693904233804	Marionette	INFO	Stopped listening on port 50370
+Dynamically enable window occlusion 1
